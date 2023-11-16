@@ -97,3 +97,6 @@ tag = "tags"
 
   [services.twitter]
     disableInlineCSS = true
+
+    #added by me
+    relativeurls: true
