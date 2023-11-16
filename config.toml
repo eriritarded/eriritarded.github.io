@@ -1,4 +1,4 @@
-baseURL = "eriritarded.github.io"
+baseURL = "https://eriritarded.github.io/"
 title = "TESTING"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
