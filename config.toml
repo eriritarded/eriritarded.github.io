@@ -95,7 +95,7 @@ relativeurls = true
     identifier = "contact"
     name = "Contact"
     url = "/contact/"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 70
 	
 [taxonomies]
 category = "categories"
