@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://eriritarded.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-	##added by aikatsu
-	<item>
-      <title>test</title>
-      <link>https://eriritarded.github.io/tags/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eriritarded.github.io/tags/test/</guid>
-      <description></description>
-    </item>
-	
     <item>
       <title>css</title>
       <link>https://eriritarded.github.io/tags/css/</link>
