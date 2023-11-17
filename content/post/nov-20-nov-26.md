@@ -1,0 +1,23 @@
++++
+author = "aikatsu"
+title = "Media Log"
+date = "2022-11-26"
+description = "November 20 - November 26"
+tags = [
+    "shortcodes",
+    "privacy",
+]
++++
+
+
+
+## [Baoh Raihousha](https://anidb.net/anime/941) (1989)
+Not good.
+
+<br>
+
+---
+
+<br>
+
+

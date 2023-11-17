@@ -9,30 +9,15 @@ tags = [
 ]
 +++
 
-## [Lycoris Recoil](https://anidb.net/anime/17097) (2022)
-<!--more-->
-CHISATO!!! (❤ω❤)
+## [Star☆Twinkle Precure](https://anidb.net/anime/14459) (2019)
+Although this took me four years to watch, I truly did enjoy it. Cute & sweet. I absolutely adore the our alien girls' character designs.
 
 <br>
 
 ---
 
-## [A Perfect Getaway](https://www.imdb.com/title/tt0971209/) (2009)
-This movie is not good. Extremely predictable.
-
-<br>
-
----
-
-## [Jojo Rabbit](https://www.imdb.com/title/tt2584384/) (2019)
-Not that funny.
-
-<br>
-
----
-
-## [Fight Club](https://www.imdb.com/title/tt0137523/) (1999)
-It's decent I guess. Can't say I understand the mass appeal.
+## [Noroi no One Piece](https://anidb.net/anime/15407) (1992)
+Short little horror episodes about a dress. Not particularly scary.
 
 <br>
 
