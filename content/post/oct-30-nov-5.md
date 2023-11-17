@@ -22,6 +22,7 @@ Very poor pacing, but I still enjoyed it.
 ---
 
 ## [Urusei Yatsura: Only You](https://anidb.net/anime/378) (1983)
+---
 A visually brilliant triple length episode.
 (─‿‿─)
 
@@ -30,6 +31,7 @@ A visually brilliant triple length episode.
 ---
 
 ## [14-sai no Koi](https://www.mangaupdates.com/series/3un55ce/14-sai-no-koi) (2010)
+---
 I find it amusing how Japan does the female-teacher-predator-pedophile-but-she's-actually-just-a-maiden-so-there's-nothing-wrong trope.
 
 <br>
@@ -38,6 +40,7 @@ I find it amusing how Japan does the female-teacher-predator-pedophile-but-she's
 
 ## [Kaguya-sama wa Kokurasetai](https://www.mangaupdates.com/series/ie24f2g/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen) (2015)
 Enjoyable for the whole run just so cute.
+---
 (─‿‿─)
 
 <br>
@@ -45,12 +48,14 @@ Enjoyable for the whole run just so cute.
 ---
 
 ## [The Cage](https://www.imdb.com/title/tt0884831/) (1964)
+---
 
 <br>
 
 ---
 
 ## [Falling Down](https://www.imdb.com/title/tt0884831/) (1993)
+---
 My favorite type of movie. Love watching unhinged men (optional) go on a rampage. Absolutely hilarious!
 (─‿‿─)
 ---
