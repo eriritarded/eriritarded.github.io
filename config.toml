@@ -8,22 +8,22 @@ relativeurls = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "HUGO.386"
+    mainpagetitle = "AIKATSU.MOE"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!" 
+    mainpagesubtitle = "Welcome to my garden." 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "In the beginning, there were robots."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "JM Fergeau"
+    copyrightname = "Hoshimiya Ichigo"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://jmf-portfolio.netlify.com"
+    copyrighturl = 
 
     # Show the "built on Hugo" disclaimer
-    showhugo = true
+    showhugo = false
 
     # Urls for social networks
     facebook = "https://facebook.com"
@@ -39,19 +39,19 @@ relativeurls = true
     loadspeedfactor = 1.0
 
     # Enables or disables the second flyby cursor. Default is false.
-    loadonepass = false
+    loadonepass = true
 
 [params.copyright]
-    name = "JM Fergeau"
+    name = "Hoshimiya Ichigo"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://jmf-portfolio.netlify.com"
+    url = 
 
     # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "[Aidoru Katsudo](https://anidb.net/anime/9348)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Example site"
+    suffix = "Let the idol activities commence"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -66,11 +66,17 @@ relativeurls = true
     name = "All posts"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
+	
+	  [[menu.main]]
+    identifier = "recs"
+    name = "Recommendations"
+    url = "/recs/"       # The path can lead to a content folder too.
+    weight = 30
 
 [taxonomies]
 category = "categories"
 tag = "tags"
-
+test="test"
 
 [privacy]
 
