@@ -1,8 +1,8 @@
 +++
 author = "aikatsu"
 title = "Media Log"
-date = "2022-11-12"
-description = "November 6 - November 12"
+date = "2022-11-19"
+description = "November 13 - November 19"
 tags = [
     "shortcodes",
     "privacy",
