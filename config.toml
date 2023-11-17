@@ -23,7 +23,7 @@ relativeurls = true
     copyrighturl = "http://jmf-portfolio.netlify.com"
 
     # Show the "built on Hugo" disclaimer
-    showhugo = true
+    showhugo = false
 
     # Urls for social networks
     facebook = "https://facebook.com"
@@ -39,7 +39,7 @@ relativeurls = true
     loadspeedfactor = 1.0
 
     # Enables or disables the second flyby cursor. Default is false.
-    loadonepass = false
+    loadonepass = true
 
 [params.copyright]
     name = "JM Fergeau"
