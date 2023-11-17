@@ -70,31 +70,31 @@ relativeurls = true
   [[menu.main]]
     identifier = "charts"
     name = "Charts"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/charts/"       # The path can lead to a content folder too.
     weight = 30
 	
   [[menu.main]]
     identifier = "minecraft"
     name = "MC"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/mc/"       # The path can lead to a content folder too.
     weight = 40
 	
   [[menu.main]]
     identifier = "programs"
     name = "Programs"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/programs/"       # The path can lead to a content folder too.
     weight = 50
 	
   [[menu.main]]
-    identifier = "links"
+    identifier = "websites"
     name = "Websites"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/websites/"       # The path can lead to a content folder too.
     weight = 60
 	
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/post/"       # The path can lead to a content folder too.
+    url = "/contact/"       # The path can lead to a content folder too.
     weight = 20
 	
 [taxonomies]
