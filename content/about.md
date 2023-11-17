@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Aikatsu.moe"
+description = "u dont need to know yet"
 date = "2023-11-16"
 aliases = ["about-us","about-hugo","contact"]
 author = "aikatsu"
