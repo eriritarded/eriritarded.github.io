@@ -63,7 +63,7 @@ relativeurls = true
 
   [[menu.main]]
     identifier = "posts"
-    name = "All posts"
+    name = "Posts"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
@@ -81,19 +81,19 @@ relativeurls = true
 	
   [[menu.main]]
     identifier = "programs"
-    name = "Useful programs"
+    name = "Programs"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 50
 	
   [[menu.main]]
     identifier = "links"
-    name = "Useful websites"
+    name = "Websites"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 60
 	
   [[menu.main]]
     identifier = "contact"
-    name = "Contact me"
+    name = "Contact"
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 	
