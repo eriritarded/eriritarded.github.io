@@ -11,8 +11,7 @@ tags = [
 
 ## [Lycoris Recoil](https://anidb.net/anime/17097) (2022)
 <!--more-->
-CHISATO!!!
-(❤ω❤)
+CHISATO!!! (❤ω❤)
 
 <br>
 
@@ -20,7 +19,6 @@ CHISATO!!!
 
 ## [A Perfect Getaway](https://www.imdb.com/title/tt0971209/) (2009)
 This movie is not good. Extremely predictable.
-¯\_(ツ)_/¯
 
 <br>
 
@@ -28,7 +26,6 @@ This movie is not good. Extremely predictable.
 
 ## [Jojo Rabbit](https://www.imdb.com/title/tt2584384/) (2019)
 Not that funny.
-┐( ˘_˘ )┌
 
 <br>
 
@@ -36,7 +33,6 @@ Not that funny.
 
 ## [Fight Club](https://www.imdb.com/title/tt0137523/) (1999)
 It's decent I guess. Can't say I understand the mass appeal.
-( ´ ꒳ ` )
 
 <br>
 
