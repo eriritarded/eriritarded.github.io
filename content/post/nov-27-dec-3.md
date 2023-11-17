@@ -10,7 +10,7 @@ tags = [
 +++
 
 
-## [Cybernetics Guardian](Cybernetics Guardian) (2019)
+## [Cybernetics Guardian](https://anidb.net/anime/1615) (2019)
 Atrocious.
 
 <br>
