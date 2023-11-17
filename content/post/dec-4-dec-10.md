@@ -16,7 +16,6 @@ At least it tries, and it tries hard. It really is a shame that Baxingar is just
 Every death is telegraphed as soon as the character is introduced. There is no sense of time. I couldn't tell you if this anime took place over the course of 2 weeks or 2 years. 
 I get that this is an old foreign cartoon with space motorcycles that grow enormous and then transform into a magical space robot. 
 But I think it should still make sense within the world of Baxingar. All that said, I would be lying if I said I disliked this show.
-<br>
 [LET'S! LET'S! LET'S! LET'S! OHHHH! OHHHH! BAXINGAR! OHHHH! OHHHH! BAXINGAR!](https://www.youtube.com/watch?v=YNG08BLs1no)
 
 <br>
