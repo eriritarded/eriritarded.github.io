@@ -12,8 +12,8 @@ tags = [
 ## [Ginga Senpuu Braiger](https://anidb.net/anime/3117) (1981)
 <!--more-->
 ---
-
-## Instagram Simple Shortcode
+[Have you ever heard of J9? People say they used to run amok through the Solar System long ago. And this world we're in has gone to ruin. If you're careless you'll get whacked from behind. Bad then and it's bad now! Same as it ever was!](https://www.youtube.com/watch?v=F90CGsxgZ3g)
+Very poor pacing, but I still enjoyed it.
 
 
 
