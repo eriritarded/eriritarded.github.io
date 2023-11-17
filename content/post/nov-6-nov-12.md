@@ -34,7 +34,7 @@ Not that funny.
 
 ---
 
-## [Fight Club](https://rateyourmusic.com/film/fight_club/) (1999)
+## [Fight Club](https://www.imdb.com/title/tt0137523/) (1999)
 It's decent I guess. Can't say I understand the mass appeal.
 ( ´ ꒳ ` )
 
