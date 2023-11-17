@@ -44,7 +44,7 @@ Enjoyable for the whole run just so cute.
 ---
 
 ## [The Cage](https://www.imdb.com/title/tt0884831/) (1964)
-
+Neat little short. I like the colors.
 <br>
 
 ---
