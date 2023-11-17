@@ -1,5 +1,5 @@
 baseURL = "https://eriritarded.github.io/"
-title = "TESTING"
+title = "AIKATSU"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -8,16 +8,16 @@ relativeurls = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "HUGO.386z"
+    mainpagetitle = "AIKATSU.MOE"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!" 
+    mainpagesubtitle = "Welcome to my garden!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "In the beginning, there were robots."
 
     # The name to display in the copyright section in the footer
-    copyrightname = "JM Fergeau"
+    copyrightname = "Hoshimiya Ichigo"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "http://jmf-portfolio.netlify.com"
