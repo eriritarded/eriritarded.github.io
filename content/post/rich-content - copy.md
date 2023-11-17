@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-[Ginga Senpuu Braiger](https://anidb.net/anime/3117) (1981)
+## [Ginga Senpuu Braiger](https://anidb.net/anime/3117) (1981)
 <!--more-->
 ---
 
