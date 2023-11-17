@@ -25,8 +25,8 @@ relativeurls = true
     # Show the "built on Hugo" disclaimer
     showhugo = false
 	
-	# Centers the layout
-	centerTheme = true
+	# set theme to full screen width
+	fullWidthTheme = true
 
     # Urls for social networks
     facebook = "https://facebook.com"
