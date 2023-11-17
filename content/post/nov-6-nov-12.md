@@ -1,7 +1,7 @@
 +++
 author = "aikatsu"
-title = "Media Log: October 30"
-date = "2022-11-05"
+title = "Media Log: November 6"
+date = "2022-11-12"
 description = "A brief description of Hugo Shortcodes"
 tags = [
     "shortcodes",
