@@ -1,5 +1,5 @@
 baseURL = "https://eriritarded.github.io/"
-title = "TESTING"
+title = "AIKATSU"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -76,7 +76,7 @@ relativeurls = true
 [taxonomies]
 category = "categories"
 tag = "tags"
-test="test"
+
 
 [privacy]
 
