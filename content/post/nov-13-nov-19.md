@@ -10,7 +10,7 @@ tags = [
 +++
 
 ## [Star☆Twinkle Precure](https://anidb.net/anime/14459) (2019)
-Although this took me four years to watch, I truly did enjoy it. Cute & sweet. I absolutely adore the our alien girls' character designs.
+Although this took me four years to watch, I truly did enjoy it. Cute & sweet. I absolutely adore our alien girls' character designs.
 
 <br>
 
