@@ -45,13 +45,13 @@ relativeurls = true
     name = "Hoshimiya Ichigo"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://jmf-portfolio.netlify.com"
+    url = "https://www.youtube.com/watch?v=SkjztS2mxxI"
 
     # Text to go before copyright information
-    prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
+    prefix = "[Commence Idol Activities](https://anidb.net/anime/9348)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Example site"
+    suffix = "Aidoru Katsudo"
 
 [menu]
   # This displays buttons in the navbar to access your contents
@@ -67,6 +67,36 @@ relativeurls = true
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 
+  [[menu.main]]
+    identifier = "charts"
+    name = "Charts"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 30
+	
+  [[menu.main]]
+    identifier = "minecraft"
+    name = "MC"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 40
+	
+  [[menu.main]]
+    identifier = "programs"
+    name = "Useful programs"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 50
+	
+  [[menu.main]]
+    identifier = "links"
+    name = "Useful websites"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 60
+	
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact me"
+    url = "/post/"       # The path can lead to a content folder too.
+    weight = 20
+	
 [taxonomies]
 category = "categories"
 tag = "tags"
