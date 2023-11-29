@@ -89,9 +89,9 @@ relativeurls = true
     weight = 50
 	
   [[menu.main]]
-    identifier = "websites"
-    name = "Websites"
-    url = "/websites/"       # The path can lead to a content folder too.
+    identifier = "tools"
+    name = "Tools"
+    url = "/tools/"       # The path can lead to a content folder too.
     weight = 60
 	
   [[menu.main]]
