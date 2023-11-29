@@ -29,7 +29,7 @@ relativeurls = true
 	fullWidthTheme = true
 
     # Urls for social networks
-    facebook = "https://facebook.com"
+    test = "https://wikipedia.com"
     twitter = "https://twitter.com"
     linkedin = "https://linkedin.com"
     github = "https://github.com"
