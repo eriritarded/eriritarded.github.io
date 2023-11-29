@@ -1,6 +1,6 @@
 +++
 title = "Websites"
-description = "u dont need to know yet"
+description = "Interesting & useful websites for denizens of a digital world."
 date = "2023-11-17"
 aliases = ["websites"]
 author = "aikatsu"
