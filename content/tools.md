@@ -11,11 +11,11 @@ web web world wide web
 Anime:
 
 * [Gears Online](http://www.gearsonline.net)
-* [SauceNAO](https://saucenao.com)
-* [trace.moe](https://trace.moe)
-* [Kitsunekko](https://kitsunekko.net)
-* [Nyaa](https://nyaa.si)
-* [AnimeTosho](https://animetosho.org)
+* [SauceNAO](https://saucenao.com) - find the source of artwork
+* [trace.moe](https://trace.moe) - find the source of screenshots
+* [Kitsunekko](https://kitsunekko.net) - subititles in multiple languages
+* [Nyaa](https://nyaa.si) - torrents
+* [AnimeTosho](https://animetosho.org) - torrents
 
 Lorem ipsum yada yada yada.
 
