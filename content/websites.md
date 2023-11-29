@@ -10,7 +10,7 @@ web web world wide web
 
 Aidoru katsudon:
 
-* cool
+* [Gears Online](http://www.gearsonline.net)
 * u
 * can
 * make
