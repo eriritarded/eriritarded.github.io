@@ -2,7 +2,7 @@ baseURL = "https://eriritarded.github.io/"
 title = "AIKATSU"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
-theme = "hugo.386"
+theme = "hugo.386.fork"
 preserveTaxonomyNames = true
 relativeurls = true
 
@@ -29,7 +29,7 @@ relativeurls = true
 	fullWidthTheme = true
 
     # Urls for social networks
-    test = "https://wikipedia.com"
+    facebook = "https://facebook.com"
     twitter = "https://twitter.com"
     linkedin = "https://linkedin.com"
     github = "https://github.com"
