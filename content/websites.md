@@ -9,11 +9,13 @@ author = "aikatsu"
 web web world wide web
 
 Anime:
+
 * [Gears Online](http://www.gearsonline.net)
-* u
-* can
-* make
-* lists
+* [SauceNAO](https://saucenao.com)
+* [trace.moe](https://trace.moe)
+* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2F)
+* [Nyaa](https://nyaa.si)
+* [AnimeTosho](https://animetosho.org)
 
 Lorem ipsum yada yada yada.
 
