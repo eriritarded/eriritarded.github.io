@@ -1,8 +1,8 @@
 +++
-title = "Websites"
-description = "Interesting & useful websites for denizens of a digital world."
+title = "Tools"
+description = "Interesting & useful tools & websites for denizens of a digital world."
 date = "2023-11-17"
-aliases = ["websites"]
+aliases = ["tools"]
 author = "aikatsu"
 +++
 
