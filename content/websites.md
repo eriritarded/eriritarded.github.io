@@ -8,8 +8,7 @@ author = "aikatsu"
 
 web web world wide web
 
-Aidoru katsudon:
-
+Anime:
 * [Gears Online](http://www.gearsonline.net)
 * u
 * can
