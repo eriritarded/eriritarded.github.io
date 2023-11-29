@@ -13,7 +13,7 @@ Anime:
 * [Gears Online](http://www.gearsonline.net)
 * [SauceNAO](https://saucenao.com)
 * [trace.moe](https://trace.moe)
-* [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2F)
+* [Kitsunekko](https://kitsunekko.net)
 * [Nyaa](https://nyaa.si)
 * [AnimeTosho](https://animetosho.org)
 
