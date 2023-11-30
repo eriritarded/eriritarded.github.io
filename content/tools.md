@@ -1,6 +1,6 @@
 +++
 title = "Tools"
-description = "Interesting & useful tools & websites for denizens of a digital world." <br>
+description = "Interesting & useful tools & websites for denizens of a digital world."
 date = "2023-11-17"
 aliases = ["tools"]
 author = "aikatsu"
