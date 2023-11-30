@@ -8,16 +8,12 @@ author = "aikatsu"
 
 web web world wide web
 
-//collapsed text
-{{< details "Anime:" >}}
-
 * [Gears Online](http://www.gearsonline.net) - information on some mecha anime
 * [SauceNAO](https://saucenao.com) - find the source of artwork
 * [trace.moe](https://trace.moe) - find the source of screenshots
 * [Kitsunekko](https://kitsunekko.net) - subititles in multiple languages
 * [Nyaa](https://nyaa.si) - torrents
 * [AnimeTosho](https://animetosho.org) - torrents
-{{< /details >}}
 
 
 Lorem ipsum yada yada yada.
