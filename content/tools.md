@@ -5,6 +5,8 @@ date = "2023-11-17"
 aliases = ["tools"]
 author = "aikatsu"
 +++
+---
+<br>
 
 {{%expand "Anime:" %}}
 * [Gears Online](http://www.gearsonline.net) - information on some mecha anime
@@ -25,4 +27,5 @@ Machine go brrrrrrrrr
 
 Please don't assassinate me.
 
+---
 
