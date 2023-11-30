@@ -8,9 +8,11 @@ author = "aikatsu"
 
 web web world wide web
 
+
+
 Anime:
 
-[expand]
+{{<pure-expand title="Title of expand" class="pure-expand-green">}}
 
 * [Gears Online](http://www.gearsonline.net) - information on some mecha anime
 * [SauceNAO](https://saucenao.com) - find the source of artwork
@@ -19,7 +21,9 @@ Anime:
 * [Nyaa](https://nyaa.si) - torrents
 * [AnimeTosho](https://animetosho.org) - torrents
 
-[/expand]
+{{</pure-expand>}}
+
+
 
 Lorem ipsum yada yada yada.
 
