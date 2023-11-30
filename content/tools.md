@@ -6,12 +6,6 @@ aliases = ["tools"]
 author = "aikatsu"
 +++
 
-web web world wide web
-<br>
----
-<br>
-
-
 {{%expand "Anime:" %}}
 * [Gears Online](http://www.gearsonline.net) - information on some mecha anime
 * [SauceNAO](https://saucenao.com) - find the source of artwork
