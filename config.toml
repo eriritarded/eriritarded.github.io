@@ -83,22 +83,28 @@ relativeurls = true
     weight = 40
 	
   [[menu.main]]
+    identifier = "keyboards"
+    name = "MK"
+    url = "/mk/"       # The path can lead to a content folder too.
+    weight = 50
+	
+  [[menu.main]]
     identifier = "programs"
     name = "Programs"
     url = "/programs/"       # The path can lead to a content folder too.
-    weight = 50
+    weight = 60
 	
   [[menu.main]]
     identifier = "tools"
     name = "Tools"
     url = "/tools/"       # The path can lead to a content folder too.
-    weight = 60
+    weight = 70
 	
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"       # The path can lead to a content folder too.
-    weight = 70
+    weight = 80
 	
 [taxonomies]
 category = "categories"
