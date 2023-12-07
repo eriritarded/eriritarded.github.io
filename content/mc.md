@@ -6,22 +6,9 @@ aliases = ["minecraft","mc"]
 author = "aikatsu"
 +++
 
-diamonde
+Lorem ipsum
 
-Aidoru katsudon:
-
-* cool
-* u
-* can
-* make
-* lists
-
-Lorem ipsum yada yada yada.
-
-Blah blah blah I place my holder in the folder.
-
-Machine go brrrrrrrrr
-
-Please don't assassinate me.
-
+* [packwiz](https://packwiz.infra.link)
+* [Prism Launcher](https://prismlauncher.org)
+* [Mechaenetia](https://mechaenetia.com)
 
