@@ -5,6 +5,7 @@ DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386.fork"
 preserveTaxonomyNames = true
 relativeurls = true
+canonifyURLs = true
 
 [params]
     # The name to display as main title in the home page
