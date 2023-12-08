@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-![2024 Anime Bingo](content/post/images/2024-anime-bingo.png)
+![2024 Anime Bingo](images/2024-anime-bingo.png)
 
 ---
 
