@@ -15,6 +15,7 @@ author = "aikatsu"
 * [Kitsunekko](https://kitsunekko.net) - subititles in multiple languages
 * [Nyaa](https://nyaa.si) - torrents
 * [AnimeTosho](https://animetosho.org) - torrents
+* [MechaBay](https://mechabay.com)
 {{% /expand%}}
 
 <br>
