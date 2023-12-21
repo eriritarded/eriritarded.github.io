@@ -1,7 +1,7 @@
 +++
 author = "aikatsu"
 title = "Media Log"
-date = "2023-12-16"
+date = "2023-12-23"
 description = "December 17 - December 23"
 tags = [
     "media",
