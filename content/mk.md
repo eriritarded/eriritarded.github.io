@@ -16,5 +16,6 @@ Lorem ipsum
 * [MechKey.org](https://mechkey.org)
 * [Keycaps Info From Matrix](https://matrixzj.github.io)
 * [KeebTalk](https://www.keebtalk.com/)
+* [GOLEM Keyboard Project](https://golem.hu/)
 
 
