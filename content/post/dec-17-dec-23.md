@@ -23,6 +23,14 @@ Not quite Asobi Asobase, but still a tasty treat.
 
 ---
 
+## [The Saint`s Magic Power Is Omnipotent Season 2](https://anidb.net/anime/17246) (2023)
+
+Finally, a shoujo isekai that doesn't faceplant immediately after the first arc or two. This was fun and Sei is so cute.
+
+<br>
+
+---
+
 <br>
 
 
