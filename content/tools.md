@@ -19,7 +19,7 @@ author = "aikatsu"
 * [MalSync] (https://malsync.moe/) - lets you sync your shit across All The Sites so everyone everywhere can know what you are doing all the time
 {{% /expand%}}
 
-<-- !
+<!---
 {{%expand "Web Extensions:" %}}
 write about deepl extension
 ublock,
