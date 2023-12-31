@@ -16,7 +16,7 @@ author = "aikatsu"
 * [Nyaa](https://nyaa.si) - torrents
 * [AnimeTosho](https://animetosho.org) - torrents
 * [MechaBay](https://mechabay.com)
-* [MalSync] (https://malsync.moe/) - lets you sync your shit across All The Sites so everyone everywhere can know what you are doing all the time
+* [MalSync](https://malsync.moe/) - lets you sync your shit across All The Sites so everyone everywhere can know what you are doing all the time
 {{% /expand%}}
 
 <!---
