@@ -13,6 +13,7 @@ author = "aikatsu"
 * [MyAnimeList](https://myanimelist.net/profile/eyecats)
 * [MyDramaList](https://mydramalist.com/profile/aikatsu)
 * [Glitchwave](https://glitchwave.com/user/aikatsu/)
+* [Discogs](https://www.discogs.com/user/CryosFear/collection)
 
 I have been known by quite a few other names in the past. "Aikatsu" is nice, due to my love of the anime, and the relative anonyminity it offers me. Not all accounts with this name are mine, and not all of my accounts use that name. 
 
