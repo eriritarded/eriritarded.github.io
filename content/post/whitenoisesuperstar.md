@@ -1,7 +1,7 @@
 +++
 author = "aikatsu"
 title = "whitenoisesuperstar"
-date = "2024-08-14"
+date = "2024-05-03"
 description = "Astrobrite"
 tags = [
     "music",
