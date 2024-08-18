@@ -2,7 +2,7 @@
 author = "aikatsu"
 title = "Compiled Log"
 date = "2024-08-14"
-description = "This is a log I kept from October of 2022 to January of 2024. Most of the time I didn't have much that was worth putting down. Not many of these work were especially special in any special way. The goal was to write any particularly strong feelings or thoughts I had. Odd things, things I liked, things I disliked, and whatever else. The months are in reverse order, with the entries in each month being in order from top to bottom. The order is messed up because I didn't want to do that much cutting and pasting. Oh well."
+description = "This is a log I kept from October of 2022 to January of 2024. Most of the time I didn't have much that was worth putting down. Not many of these works were especially special in any special way. The goal was to write any particularly strong feelings or thoughts I had. Odd things, things I liked, things I disliked, and whatever else. The months are in reverse order, with the entries in each month being in order from top to bottom. The order is messed up because I didn't want to do that much cutting and pasting. Oh well."
 tags = [
     "log","anime","manga","light novel","movie","television","animation",
 ]
