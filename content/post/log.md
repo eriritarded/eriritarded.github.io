@@ -694,7 +694,7 @@ Been reading since the start. Sad to see it end. Was always a cute little treat 
 
 ## [Aura Battler Dunbine](https://anidb.net/anime/899) (1983)
 
-Pretty interesting world with very boring characters. Actually scratch that I love CIELA LAPANA I love ELMELIE LUFT I love ELLE HUNM they are absolute royalty and I shall serve them. Bern Bunnings seems to be one of the more competent Tomino-blue-haired-antagonist characters. As far as Tomino shows go I thought this was definitely towards the lower half. The entire cast of the Zelana was bland as hell (sans Cham). However, in regards Tomino "final stretches" go this was one of the better ones.
+Pretty interesting world with very boring characters. Actually scratch that I love CIELA LAPANA I love ELMELIE LUFT I love ELLE HUNM they are absolute royalty and I shall serve them. Bern Bunnings seems to be one of the more competent Tomino-blue-haired-antagonist characters. Compared to other Tomino shows, I thought this was definitely towards the lower half. The entire cast of the Zelana was bland as hell (sans Cham). However, as far as Tomino "final stretches" go this was one of the better ones.
 
 <br>
 
