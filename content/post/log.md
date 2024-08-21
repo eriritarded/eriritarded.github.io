@@ -1293,6 +1293,8 @@ Not a fan. I expect the story to suck. I expect that with a crossover between a 
 
 ## [xx](https://www.youtube.com/watch?v=CmNa7Bv6qRU&t=1s) (2012)
 Excellent art, however I didn't really get it. Something about the red string of fate I guess.
+<br>
+---
 
 # December 22
 
