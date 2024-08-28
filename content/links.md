@@ -12,5 +12,6 @@ author = "aikatsu"
 * [Letterboxd](https://letterboxd.com/aikatsu/)
 * [MyAnimeList](https://myanimelist.net/profile/eyecats)
 * [MyDramaList](https://mydramalist.com/profile/aikatsu)
+* [VNDB](https://vndb.org/u137028/ulist?vnlist=1)
 * [Glitchwave](https://glitchwave.com/user/aikatsu/)
 
