@@ -71,8 +71,8 @@ canonifyURLs = true
     url = "/post/"       # The path can lead to a content folder too.
     weight = 20
 	
-	  [[menu.main]]
-    identifier = "lapana"
+  [[menu.main]]
+    identifier = "recs"
     name = "Recommendations"
     url = "https://docs.google.com/forms/d/e/1FAIpQLSfunfYAcJsY29dPTbQCV2ksJsRSHx8c0YnOWvPBA4Le9Ds2vA/viewform?usp=sf_link"       
     weight = 30
